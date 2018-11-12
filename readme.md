@@ -2,10 +2,10 @@
 
 bearychat-notifier is simpliy incoming bot api client base on [incoming bot](https://ezsync.bearychat.com/dashboard/robots/all/add?type=incoming) with [requests](https://github.com/requests/requests).
 
-## install
+## Install
 
 ```sh
-wget https://github.com/
+wget https://raw.githubusercontent.com/3vilive/bearychat-notifier/master/bearychat_notifier.py
 ```
 
 ## Usage
