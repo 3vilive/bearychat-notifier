@@ -13,6 +13,8 @@ wget https://raw.githubusercontent.com/3vilive/bearychat-notifier/master/bearych
 first create your own BearyChatNotifier instance:
 
 ```python
+from bearychat_notifier import BearyChatNotifier, NotifyLevel
+
 notifier = BearyChatNotifier('your_web_hook_url')
 ```
 
